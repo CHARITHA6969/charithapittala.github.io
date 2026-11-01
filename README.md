@@ -8,7 +8,7 @@ Personal engineering portfolio covering applied AI, machine learning systems, ba
 
 The live website is available at:
 
-**https://charithapittala.github.io**
+**https://charitha6969.github.io/charithapittala.github.io**
 
 ## What's included
 
