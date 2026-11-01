@@ -2,9 +2,11 @@
 
 Personal engineering portfolio covering applied AI, machine learning systems, backend engineering, and Edge AI.
 
+[![Deploy portfolio to GitHub Pages](https://github.com/CHARITHA6969/charithapittala.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/CHARITHA6969/charithapittala.github.io/actions/workflows/pages.yml)
+
 ## Website
 
-Once GitHub Pages is enabled for this repository, the site is available at:
+The live website is available at:
 
 **https://charithapittala.github.io**
 
